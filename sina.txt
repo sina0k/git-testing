@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 hi just for mergeqqw
 dsgjksbgkjbwksjdb
 sdgkjbkwejbd;g
 dskjbgfdkjvbwolds nso bsdgsdgsdjdngjsnbvksfjdvbdfjb
+||||||| merged common ancestors
+hi just for mergeqqw
+dsgjksbgkjbwksjdb
+sdgkjbkwejbw
+=======
+qqqq
+
+>>>>>>> 02b3cba0effe57f9fb83b86db6e4045f5985a51d
